@@ -40,21 +40,21 @@ function App() {
     <br />
         <div className="d">
             
-            <img src="/images/pic.png" alt="Image1" />
+            <img src="images/pic.png" alt="Image1" />
             <p className="title">Never Ending Paddy Fields and Narrow Roads</p>
             <p className="location">Pollachi</p>
             <p className="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             <button className="button">READ MORE</button>
         </div>
         <div className="d">
-            <img src="/images/pic.png" alt="Image2" />
+            <img src="images/pic.png" alt="Image2" />
             <p className="title">Small Ride across the Summer Heat</p>
             <p className="location">Thanjavur</p>
             <p className="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             <button className="button">READ MORE</button>
         </div>
         <div className="d">
-            <img src="/images/pic.png" alt="Image2" />
+            <img src="images/pic.png" alt="Image2" />
             <p className="title">Small Ride across the Summer Heat</p>
             <p className="location">Thanjavur</p>
 
@@ -64,21 +64,21 @@ function App() {
         </div>
 
         <div className="d">
-            <img src="/images/pic.png" alt="Image1" />
+            <img src="images/pic.png" alt="Image1" />
             <p className="title">Never Ending Paddy Fields and Narrow Roads</p>
             <p className="location">Pollachi</p>
             <p className="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             <button className="button">READ MORE</button>
         </div>
         <div className="d">
-            <img src="/images/pic.png" alt="Image2" />
+            <img src="images/pic.png" alt="Image2" />
             <p className="title">Small Ride across the Summer Heat</p>
             <p className="location">Thanjavur</p>
             <p className="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
             <button className="button">READ MORE</button>
         </div>
         <div className="d">
-            <img src="/images/pic.png" alt="Image2" />
+            <img src="images/pic.png" alt="Image2" />
             <p className="title">Small Ride across the Summer Heat</p>
             <p className="location">Thanjavur</p>
             <p className="description">Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
