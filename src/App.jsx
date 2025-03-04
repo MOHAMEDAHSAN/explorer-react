@@ -27,7 +27,7 @@ function App() {
         
             <td className="image">
             
-              <img className="prf" src="/images/bike.png" />
+              <img className="prf" src="images/pic.png" />
             </td>
         </tr>
 </table>
